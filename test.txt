@@ -2,3 +2,5 @@ I am going to add some content just to remind myself how Git works
 Let me add a second sentence.
 
 OK this is a bit of a puzzle as to how to stop the list from working but we will see.
+
+Now I learned to switch branch again with checkout
