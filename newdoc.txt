@@ -1,3 +1,5 @@
 This is simply another document so I can keep working with GIT.
 
 If I save a second time, does it go in both or only in the new file?
+
+Aaagh this doesnt appear in the log, only when I switch to the branch so how do you know what commits you have made. Check GUI
