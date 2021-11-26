@@ -1,1 +1,2 @@
 I am going to add some content just to remind myself how Git works
+Let me add a second sentence
