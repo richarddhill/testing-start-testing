@@ -3,4 +3,6 @@ Let me add a second sentence.
 
 OK this is a bit of a puzzle as to how to stop the list from working but we will see.
 
-Now I learned to switch branch again with checkout
+Now I learned to switch branch again with checkout.
+
+The good news is that I can sync files directly from Visual Studio code. The bad seems to be that I am a million miles away from what the course is telling me, so am not learning anything new. Press on, dear friend.
